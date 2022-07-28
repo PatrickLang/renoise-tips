@@ -2,6 +2,8 @@
 
 How to:
 
+![Renoise and Virus TI Routing Diagram](renoise-virusti-routing.png)
+
 - Make sure Renoise finds the VST
 - Map everything needed
   - First Renoise track to VST
